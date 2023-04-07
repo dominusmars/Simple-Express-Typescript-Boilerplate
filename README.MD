@@ -23,7 +23,7 @@ All page endpoints will be on the main level. Note do not clash endpoints when m
 This package uses yarn as its package manager. 
 
     ```
-    yarn install
+        yarn install
     ```
 this will install all needed packages
 
